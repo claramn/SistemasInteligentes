@@ -1,1 +1,1 @@
-Trabajo de aprendizaje automático para la asignatura de sistemas inteligentes.
+Trabajos de aprendizaje automático y agentes deliberativos para la asignatura de sistemas inteligentes.
